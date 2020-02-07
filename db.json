@@ -11,7 +11,7 @@
       "avion": "Turkish airlines", 
       "coche": "Europcar",
       "hotel": "Hotel Mercure Istanbul Taksim",
-      "precio": "859.25€",
+      "precio": "859.25€"
     },
 
 
@@ -27,7 +27,7 @@
       "avion": "Norwegian air international", 
       "coche": "Hertz",
       "hotel": "Radisson Blu Royal Hotel",
-      "precio": "1250.23€",
+      "precio": "1250.23€"
     },
 
 
@@ -43,7 +43,7 @@
       "avion": "Air Europa", 
       "coche": "Auto Europe",
       "hotel": "Hotel Østerport",
-      "precio": "956.23€",
+      "precio": "956.23€"
     },
 
 
@@ -59,7 +59,7 @@
       "avion": "Finnair", 
       "coche": "Goldcar",
       "hotel": "Arctic TreeHouse Hotel",
-      "precio": "1560.00€",
+      "precio": "1560.00€"
     },
 
 
@@ -74,7 +74,7 @@
       "avion": "Ryanair", 
       "coche": "Enterprise Rent-A-Car",
       "hotel": "Hilton Imperial Dubrovnik",
-      "precio": "953.21€",
+      "precio": "953.21€"
     },
 
 
@@ -89,7 +89,7 @@
       "avion": "Vueling Airlines", 
       "coche": "Avis Alquiler de coches",
       "hotel": "U232 Hotel",
-      "precio": "1300.23€",
+      "precio": "1300.23€"
     },
 
 
@@ -104,7 +104,7 @@
       "avion": "Lufthansa", 
       "coche": "Autovermietung Buchbinder",
       "hotel": "Mercure Hotel MOA Berlin",
-      "precio": "785.00€",
+      "precio": "785.00€"
     },
 
 
@@ -119,7 +119,7 @@
       "avion": "KLM Royal Dutch Airlines", 
       "coche": "Thrifty",
       "hotel": "Old Waverley Hotel",
-      "precio": "822.35€",
+      "precio": "822.35€"
     },
 
 
@@ -134,7 +134,7 @@
       "avion": "Air France", 
       "coche": "France Cars",
       "hotel": "Hôtel Darcet",
-      "precio": "1395.26€",
+      "precio": "1395.26€"
     },
 
 
@@ -149,7 +149,7 @@
       "avion": "EgyptAir", 
       "coche": "Alamo",
       "hotel": "Hotel Marriott El Cairo",
-      "precio": "1060.56€",
+      "precio": "1060.56€"
     }  
 
   ]
