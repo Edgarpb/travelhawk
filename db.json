@@ -8,9 +8,9 @@
           "img1": "https://turkishairlines.ssl.cdn.sdlmedia.com/637128523988699111JF.jpg",
           "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSywFqzAYp5Vua4P7sD-eswgfjN085-KlOuXZW_b0skG6TCoET4"
         }],
-      "avion": "Turkish airlines", 
-      "coche": "Europcar",
-      "hotel": "Hotel Mercure Istanbul Taksim",
+      "avion": [{string:"Turkish airlines", img: "https://files.merca20.com/uploads/2019/05/turkish_airlines_logo.jpg"}], 
+      "coche": [{string:"Europcar", img: "https://www.rentalcars.com/images/suppliers/flat/europcar_logo_400.jpg" }],
+      "hotel": [{string:"Hotel Mercure Istanbul Taksim", img: "https://www.bookaris.com/images/HB/giata/23/237392/237392a_hb_a_019.jpg"}],
       "precio": "859.25€"
     },
 
@@ -21,12 +21,12 @@
       "name": "Bergen",
       "images": [
         {
-          "img1": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.ceo-latam.com%2Fwp-content%2Fuploads%2F2018%2F10%2FBergen-principal.jpg&imgrefurl=https%3A%2F%2Fwww.ceo-latam.com%2Fceo-life%2Fdestinos%2Fbergen-portal-los-fiordos-noruegos%2F&tbnid=lZE7MChpTe_KJM&vet=12ahUKEwii9dm34L_nAhUJIRoKHYoPBoAQMygRegUIARD9AQ..i&docid=Og4JaeEpJRT2WM&w=1920&h=1080&q=bergen&hl=es&ved=2ahUKEwii9dm34L_nAhUJIRoKHYoPBoAQMygRegUIARD9AQ",
-          "img2": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fviajar.especiales.elperiodico.com%2F50-grandes-viajes%2Fbergen-fiordos-y-cabo-norte-caprichos-del-mar-vikingo%2F&psig=AOvVaw31SX5Se1NiHklf6Ak6gsD6&ust=1581175647623000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOit7Ingv-cCFQAAAAAdAAAAABAK"
+          "img1": "https://static.puzzlefactory.pl/puzzle/171/616/original.jpg" ,
+          "img2": "https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,h_374,q_65,w_640/v1/clients/norway/Preikestolen-in-Stavanger-Pulpit-Rock-Norway-CH-Visitnorway_a74cf7bc-9538-456d-bc0a-79813d7e9aa0.jpg"
         }],
-      "avion": "Norwegian air international", 
-      "coche": "Hertz",
-      "hotel": "Radisson Blu Royal Hotel",
+      "avion": [{string:"Norwegian air international", img: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Norwegian_Air_Shuttle_logo.png" }], 
+      "coche": [{string:"Hertz", img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hertz_logo.jpg/220px-Hertz_logo.jpg" }],
+      "hotel": [{string:"Radisson Blu Royal Hotel", img: "https://media-cdn.tripadvisor.com/media/photo-s/0f/2d/24/41/photo0jpg.jpg" }],
       "precio": "1250.23€"
     },
 
@@ -40,9 +40,9 @@
           "img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY-fEaunEKJfKPi9NuoNQqh53pCqowtygRsb_ffFcL4m_sNVhb",
           "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL45iZe2Q1lQSnMFhWIyJlKHM6S012poGh3kRAd2WmpORgvLGZ"
         }],
-      "avion": "Air Europa", 
-      "coche": "Auto Europe",
-      "hotel": "Hotel Østerport",
+      "avion": [{string:"Air Europa", img: "https://todoaviones.net/wp-content/uploads/2019/03/air-europa-vector-logo-1.jpg" }], 
+      "coche": [{string:"Auto Europe", img: "https://cdn.travelpulse.com/images/99999999-9999-9999-9999-999999999999/e8768b0f-142a-e411-95bd-0050568e420d/500x309.png"}],
+      "hotel": [{string:"Hotel Østerport", img:"https://imgs-akamai.mnstatic.com/9d/34/9d34ac7ce4dbc68eab1dedb735c0f9fe.jpg" }],
       "precio": "956.23€"
     },
 
@@ -56,9 +56,9 @@
           "img1": "https://www.santaclausreindeer.fi/wp-content/uploads/2019/11/house-of-mrs-claus-1200x665.jpg",
           "img2": "https://r-cf.bstatic.com/images/hotel/max1024x768/118/118438421.jpg"
         }],
-      "avion": "Finnair", 
-      "coche": "Goldcar",
-      "hotel": "Arctic TreeHouse Hotel",
+      "avion": [{string:"Finnair", img: "https://images.ctfassets.net/m9ph4qvas97u/5UDfJtJIkYSBg47X4Wbcvl/884b9c9f9df478402b05547b5561e3b6/finnair-logo.png" }], 
+      "coche": [{string:"Goldcar", img: "https://www.denia.net/public/Image/2018/6/goldcar_logo_forCrop.jpg" }],
+      "hotel": [{string:"Arctic TreeHouse Hotel", img: "https://q-cf.bstatic.com/images/hotel/max1024x768/933/93399448.jpg" }],
       "precio": "1560.00€"
     },
 
@@ -71,9 +71,9 @@
           "img1": "https://cdn.bmpcloud.com/elements/files/bookingmotor/images/9627435_Dubrovnik.jpeg",
           "img2": "https://aws.traveler.es/prod/designs/v1/assets/940x627/133628.jpg"
         }],
-      "avion": "Ryanair", 
-      "coche": "Enterprise Rent-A-Car",
-      "hotel": "Hilton Imperial Dubrovnik",
+      "avion": [{string:"Ryanair", img: "https://esnuex.org/sites/default/files/partners/images/img_2373-e1526891837426.jpg" }], 
+      "coche": [{string:"Enterprise Rent-A-Car", img: "https://www.numeroservicioalcliente.com/wp-content/uploads/2016/07/enterprise-RENT-A-CAR-750x410.png" }],
+      "hotel": [{string:"Hilton Imperial Dubrovnik", img: "https://www3.hilton.com/resources/media/hi/DBVHIHI/en_US/img/shared/full_page_image_gallery/main/HL_exterior02_2_675x359_FitToBoxSmallDimension_Center.jpg" }],
       "precio": "953.21€"
     },
 
@@ -86,9 +86,9 @@
           "img1": "https://cdn.getyourguide.com/img/tour_img-1973767-146.jpg",
           "img2": "https://okrentacar.es/img/oficinas/barcelona-back.jpg"
         }],
-      "avion": "Vueling Airlines", 
-      "coche": "Avis Alquiler de coches",
-      "hotel": "U232 Hotel",
+      "avion": [{string:"Vueling Airlines", img: "https://www.gmkfreelogos.com/logos/V/img/vueling.gif" }], 
+      "coche": [{string:"Avis Alquiler de coches", img: "https://i1.wp.com/elpoderdelasideas.com/wp-content/uploads/avis.jpg?resize=550%2C210" }],
+      "hotel": [{string:"U232 Hotel", img: "https://content.r9cdn.net/rimg/kimg/89/de/bbb1e1ef-15dbd28bad9.jpg?width=568&height=350&crop=true&caller=HotelDetailsPhoto" }],
       "precio": "1300.23€"
     },
 
@@ -101,9 +101,9 @@
           "img1": "https://okdiario.com/img/2019/09/27/lugares-de-interes-en-berlin-655x368.jpg",
           "img2": "https://www.visitberlin.de/system/files/styles/visitberlin_teaser_full_width_visitberlin_mobile_1x/private/image/iStock_000074120341_Double_DL_PPT_0.jpg?h=a66ba266&itok=tD4ERppn"
         }],
-      "avion": "Lufthansa", 
-      "coche": "Autovermietung Buchbinder",
-      "hotel": "Mercure Hotel MOA Berlin",
+      "avion": [{string:"Lufthansa", img: "https://i1.wp.com/elpoderdelasideas.com/wp-content/uploads/lufthansa-logo-2018.png?fit=780%2C380" }], 
+      "coche": [{string:"Autovermietung Buchbinder", img:"https://www.buchbinder.de/android-chrome-256x256.png"}],
+      "hotel": [{string:"Mercure Hotel MOA Berlin", img: "https://media-cdn.tripadvisor.com/media/photo-s/13/80/2e/fd/mercure-hotel-moa-berlin.jpg" }],
       "precio": "785.00€"
     },
 
@@ -116,9 +116,9 @@
           "img1": "https://cdn.civitatis.com/reino-unido/edimburgo/galeria/edimburgo-vistas.jpg",
           "img2": "https://www.lavanguardia.com/r/GODO/LV/p5/WebSite/2018/08/08/Recortada/img_azarzoso_20180809-101103_imagenes_lv_terceros_istock-458678385-0478-kRhC-U4512510297921WG-992x558@LaVanguardia-Web.jpg"
         }],
-      "avion": "KLM Royal Dutch Airlines", 
-      "coche": "Thrifty",
-      "hotel": "Old Waverley Hotel",
+      "avion": [{string:"KLM Royal Dutch Airlines", img: "https://www.numeroservicioalcliente.com/wp-content/uploads/2016/07/KLM-airlines_logo.svg_.png"}], 
+      "coche": [{string:"Thrifty", img: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Thrifty-car-rental-logo.jpg"}],
+      "hotel": [{string:"Old Waverley Hotel", img: "https://media-cdn.tripadvisor.com/media/photo-s/08/86/29/25/the-old-waverley-hotel.jpg" }],
       "precio": "822.35€"
     },
 
@@ -129,11 +129,11 @@
       "images": [
         {
           "img1": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-540x360/06/74/aa/fc.jpg",
-          "img2": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.paris.es%2Fcampos-eliseos&psig=AOvVaw0VulERBZsN8McGY41ZMHFc&ust=1581176142044000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDcwPXhv-cCFQAAAAAdAAAAABAE"
+          "img2": "https://cdn.culturagenial.com/es/imagenes/a-catedral-fachada-bella-cke.jpg"
         }],
-      "avion": "Air France", 
-      "coche": "France Cars",
-      "hotel": "Hôtel Darcet",
+      "avion": [{string:"Air France", img: "https://cdn.worldvectorlogo.com/logos/air-france-25159.svg" }], 
+      "coche": [{string:"France Cars", img: "https://media.glassdoor.com/sqll/1037706/france-cars-squarelogo-1475239494150.png"}],
+      "hotel": [{string:"Hôtel Darcet", img: "https://thumbnails.trvl-media.com/3qvXlKgyz2y53hBe49KibdOhILs=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/910000/901200/901156/39ab9082_z.jpg"}],   
       "precio": "1395.26€"
     },
 
@@ -146,9 +146,9 @@
           "img1": "https://es.theepochtimes.com/assets/uploads/2018/09/FotoJet-44.jpg",
           "img2": "https://cdn.civitatis.com/egipto/port-said/excursion-el-cairo-piramides-giza-grid.jpg"
         }],
-      "avion": "EgyptAir", 
-      "coche": "Alamo",
-      "hotel": "Hotel Marriott El Cairo",
+      "avion": [{string:"EgyptAir", img: "https://media.united.com/images/Media%20Database/SDL/MileagePlus%20Partners/airlines/egyptair-v2.jpg"}], 
+      "coche": [{string:"Alamo", img: "https://dailyweb.com.ar/data/img_cont/img_imagenes/img_gr/7724.jpg" }],
+      "hotel": [{string:"Hotel Marriott El Cairo", img: "https://media-cdn.tripadvisor.com/media/photo-s/01/56/a9/4a/hotel-front-entrance.jpg" }],
       "precio": "1060.56€"
     }  
 
